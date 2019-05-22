@@ -1,0 +1,28 @@
+version: "2"
+services:
+  mysql:
+      image: mysql:latest
+      container_name: wordpress-mysql
+      command: --default-authentication-plugin=mysql_native_password
+      environment:
+        - MYSQL_ROOT_PASSWORD=R00tT00r
+        - MYSQL_DATABASE=mydatabase
+        - MYSQL_USER=admin
+        - MYSQL_PASSWORD=admin
+      ports:
+        - "8002:3306"
+
+  wordpress:
+      build: ./wordpress-build/
+      container_name: wordpress
+      restart: always
+      links:
+        - mysql
+      environment:
+        - WORDPRESS_DB_PASSWORD=R00tT00r
+      ports:
+        - "127.0.0.1:8080:80" 
+      working_dir: /var/www/html
+      volumes:
+        - "./wordpress/html/:/var/www/html/"
+  
