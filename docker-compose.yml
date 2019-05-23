@@ -22,7 +22,8 @@ services:
         - WORDPRESS_DB_PASSWORD=R00tT00r
       ports:
         - "127.0.0.1:8080:80" 
-      working_dir: /var/www/html
+        - "9000:9000"
+      working_dir: /var/www/html/
       volumes:
-        - "./wordpress/html/:/var/www/html/"
-  
+        - "./wordpress/:/var/www/html/"
+        - "./xdebug-log/:/tmp/"

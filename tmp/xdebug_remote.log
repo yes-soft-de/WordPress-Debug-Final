@@ -1,0 +1,84 @@
+[90] Log opened at 2019-05-23 14:32:23
+[90] I: Checking remote connect back address.
+[90] I: Checking header 'HTTP_X_FORWARDED_FOR'.
+[90] I: Checking header 'REMOTE_ADDR'.
+[90] I: Remote address found, connecting to 192.168.0.1:9000.
+[90] I: Connected to client. :-)
+[90] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/index.php" language="PHP" xdebug:language_version="7.2.18" protocol_version="1.0" appid="90"><engine version="2.7.2"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[90]
+[90] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[90]
+[90] Log closed at 2019-05-23 14:32:23
+[90]
+[90] Log opened at 2019-05-23 14:32:25
+[90] I: Checking remote connect back address.
+[90] I: Checking header 'HTTP_X_FORWARDED_FOR'.
+[90] I: Checking header 'REMOTE_ADDR'.
+[90] I: Remote address found, connecting to 192.168.0.1:9000.
+[90] I: Connected to client. :-)
+[90] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/index.php" language="PHP" xdebug:language_version="7.2.18" protocol_version="1.0" appid="90"><engine version="2.7.2"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[90]
+[90] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[90]
+[90] Log closed at 2019-05-23 14:32:25
+[90]
+[91] Log opened at 2019-05-23 14:32:38
+[91] I: Checking remote connect back address.
+[91] I: Checking header 'HTTP_X_FORWARDED_FOR'.
+[91] I: Checking header 'REMOTE_ADDR'.
+[91] I: Remote address found, connecting to 192.168.0.1:9000.
+[91] I: Connected to client. :-)
+[91] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/index.php" language="PHP" xdebug:language_version="7.2.18" protocol_version="1.0" appid="91"><engine version="2.7.2"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[91]
+[91] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[91]
+[91] Log closed at 2019-05-23 14:32:38
+[91]
+[91] Log opened at 2019-05-23 14:32:39
+[91] I: Checking remote connect back address.
+[91] I: Checking header 'HTTP_X_FORWARDED_FOR'.
+[91] I: Checking header 'REMOTE_ADDR'.
+[91] I: Remote address found, connecting to 192.168.0.1:9000.
+[91] I: Connected to client. :-)
+[91] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/index.php" language="PHP" xdebug:language_version="7.2.18" protocol_version="1.0" appid="91"><engine version="2.7.2"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[91]
+[91] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[91]
+[91] Log closed at 2019-05-23 14:32:39
+[91]
+[88] Log opened at 2019-05-23 14:51:47
+[88] I: Checking remote connect back address.
+[88] I: Checking header 'HTTP_X_FORWARDED_FOR'.
+[88] I: Checking header 'REMOTE_ADDR'.
+[88] I: Remote address found, connecting to 192.168.0.1:9000.
+[88] I: Connected to client. :-)
+[88] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/index.php" language="PHP" xdebug:language_version="7.2.18" protocol_version="1.0" appid="88"><engine version="2.7.2"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[88]
+[88] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[88]
+[88] Log closed at 2019-05-23 14:51:47
+[88]
+[91] Log opened at 2019-05-23 14:52:07
+[91] I: Checking remote connect back address.
+[91] I: Checking header 'HTTP_X_FORWARDED_FOR'.
+[91] I: Checking header 'REMOTE_ADDR'.
+[91] I: Remote address found, connecting to 192.168.0.1:9000.
+[91] I: Connected to client. :-)
+[91] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/index.php" language="PHP" xdebug:language_version="7.2.18" protocol_version="1.0" appid="91"><engine version="2.7.2"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[91]
+[91] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[91]
+[91] Log closed at 2019-05-23 14:52:07
+[91]
+[91] Log opened at 2019-05-23 14:52:07
+[91] I: Checking remote connect back address.
+[91] I: Checking header 'HTTP_X_FORWARDED_FOR'.
+[91] I: Checking header 'REMOTE_ADDR'.
+[91] I: Remote address found, connecting to 192.168.0.1:9000.
+[91] I: Connected to client. :-)
+[91] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///var/www/html/index.php" language="PHP" xdebug:language_version="7.2.18" protocol_version="1.0" appid="91"><engine version="2.7.2"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2019 by Derick Rethans]]></copyright></init>
+[91]
+[91] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+[91]
+[91] Log closed at 2019-05-23 14:52:07
+[91]
