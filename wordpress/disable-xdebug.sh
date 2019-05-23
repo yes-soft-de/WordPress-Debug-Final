@@ -10,3 +10,4 @@ else
     echo 'XDebug is Not Installed :-)'
 fi
 
+service apache2 restart
